@@ -9,6 +9,8 @@
     .recipe-name::after{
         content: "(Dolce Tradizionale)";
     }
-    
+    .recipe-name{
+        font-size: 30px;
+    }
     
 }
