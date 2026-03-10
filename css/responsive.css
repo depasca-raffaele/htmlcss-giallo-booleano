@@ -21,6 +21,9 @@
     .quick-notes li{
         flex-basis: calc((100% / 3) - (20px * 2) / 3);
     }
+    .social-networks button{
+        width: 100%;
+    }
 
     
 }
