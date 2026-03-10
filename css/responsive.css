@@ -40,4 +40,10 @@
     .quick-notes ul{
         display: inherit;
     }
+    .recipe-card{
+        display: flex;
+    }
+    .social-networks .label{
+        display: inline;
+    }
 }
