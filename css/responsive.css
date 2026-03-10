@@ -37,4 +37,7 @@
     .recipe-name{
         font-size: 35px;
     }
+    .quick-notes ul{
+        display: inherit;
+    }
 }
